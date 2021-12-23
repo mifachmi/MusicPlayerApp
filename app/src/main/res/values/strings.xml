@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MusicPlayerApp</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="favorite_icon">favorite</string>
+    <string name="judul_lagu">Judul Lagu</string>
+    <string name="repeat_icon">repeat_icon</string>
+    <string name="shuffle_icon">shuffle_icon</string>
+    <string name="play_icon">play_icon</string>
+    <string name="previous_icon">previous_icon</string>
+    <string name="fast_rewind_icon">fast_rewind_icon</string>
+    <string name="_0_00">0:00</string>
+    <string name="hello_fachmi">Hello, Fachmi</string>
+    <string name="enjoy_with_your_favorite_music">ENJOY With Your Favorite Music</string>
+</resources>
